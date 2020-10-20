@@ -1,0 +1,28 @@
+body{
+  background: lightslategray;
+}
+
+.div-top-bar {
+  background: aqua;
+  background-color: aqua;
+}
+
+.sign-up {
+  margin: auto;
+  width: 380px;
+  background: azure;
+  border-style: solid;
+  border-color: lightsteelblue;
+  border-width: 1px;
+}
+
+.title-sign-up {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.i-email {
+  width: 320px;
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
