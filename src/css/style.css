@@ -19,6 +19,7 @@ body {
   align-self: center;
   margin: 0;
   vertical-align: super;
+  font-weight: 100;
 }
 
 footer {
@@ -71,7 +72,7 @@ a {
 
 .form-element > p {
   margin: 5px 0;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 input {
