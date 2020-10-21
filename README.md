@@ -1,21 +1,23 @@
 **![](https://img.shields.io/badge/Microverse-blueviolet)**
 
-# Project Name
+# HTML Form
 
-> Youtube clone made for showing abilities on HTML coding.
+> Sign up page HTML form
 
 #![screenshot](/src/images/capture.png)
 
-In this project we can see a Navbar, Sidebar and embed video showing just like youtube
+In this project we can see a Sign up form like intuit 
 
 ## Built With
 
 - HTML
 - CSS
 
+## Live Demo
+
+[Link to Live Demo](https://raw.githack.com/MrkarlosM/HTML-Forms/sign-in-form/index.html)
 
 ## Getting Started
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -27,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 1- Clone the repository
 ```
-git clone https://github.com/elberthcorniell/Youtube-Clone.git
+git clone https://github.com/MrkarlosM/HTML-Forms.git
 ```
 
 2- Open the folder on VS Code, right click the index.html file and click on "Open With Live Server"
@@ -46,14 +48,14 @@ git clone https://github.com/elberthcorniell/Youtube-Clone.git
 👤 **Author2**
 
 - GitHub: [@MrkarlosM](https://github.com/MrkarlosM)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@MrkarlosM](https://twitter.com/MrkarlosM)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/MrkarlosM/HTML-Forms/issues).
 
 ## Show your support
 
@@ -62,4 +64,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](./LICENSE.md) licensed.
